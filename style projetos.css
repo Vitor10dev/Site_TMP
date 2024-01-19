@@ -206,8 +206,8 @@ text-decoration: none;
 }
 
 .sidebar .profile-details img{
-  height: 60px;
-  width: 60px;
+  height: 45px;
+  width: 45px;
   object-fit: cover;
   border-radius: 16px;
   margin: 0 14px 0 12px;
@@ -373,5 +373,4 @@ iframe{
   color: #026500;
   font-size: 12px; 
   text-align: center;
-  
 }
