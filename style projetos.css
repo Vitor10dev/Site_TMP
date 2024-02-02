@@ -258,8 +258,8 @@ text-decoration: none;
   display: flex;
   align-items: center;
   position: relative;
-  background-color:  rgba(98, 251, 22, 0.652);
 }
+
 .home-section .home-content .bx-menu,
 .home-section .home-content {
   color: #11101d;
